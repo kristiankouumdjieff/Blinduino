@@ -1,4 +1,6 @@
 import { API } from 'homebridge';
+const Noble = require('noble');
+Noble.startScanning([], true);
 
 import { PLATFORM_NAME } from './settings';
 import { ExampleHomebridgePlatform } from './platform';
