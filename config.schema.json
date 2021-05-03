@@ -1,5 +1,5 @@
 {
-  "pluginAlias": "ExampleHomebridgePlugin",
+  "pluginAlias": "Blinduino",
   "pluginType": "platform",
   "singular": true,
   "schema": {
